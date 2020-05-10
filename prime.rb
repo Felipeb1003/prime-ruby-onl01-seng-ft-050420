@@ -3,5 +3,3 @@ def prime?(num)
     return true if num % n == 0
   end
 end
-    
-
